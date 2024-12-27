@@ -32,7 +32,7 @@
  <h2>Installation</h2>
  <ol>
   <li>Clone the repository:
-<pre><code>git clone https://github.com//job-portal.git</code></pre>
+<pre><code>git clone https://github.com/UsmanSaleem004/job-portal.git</code></pre>
 </li>
 <li>Start the server:
 <p>Place the project folder in your web server's root directory (e.g., <code>htdocs</code> for XAMPP).</p>
@@ -41,7 +41,18 @@
 </ol>
 
 <h2>Screenshots</h2>
-<p>Include relevant screenshots to showcase the application's features (stored in the <code>screenshots/</code> directory).</p>
+<h1>Home Page</h1>
+
+![Screenshot 2024-12-27 015102](https://github.com/user-attachments/assets/b41477f5-0389-4ae0-8ff2-520dc2545eee)
+
+<h1>Sign Up/Login</h1>
+
+![Screenshot 2024-12-27 015135](https://github.com/user-attachments/assets/752182f5-b69e-4980-a14c-c6667966f0b0)
+
+<h1>Jobs</h1>
+
+![Screenshot 2024-12-27 015219](https://github.com/user-attachments/assets/539c253d-ecb5-4b26-a145-b90b07bdf8e5)
+
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
@@ -50,7 +61,6 @@
 <h2>Contact</h2>
 <p>For any inquiries or feedback, please contact:</p>
 <ul>
-<li><strong>Email:</strong> your-email@example.com</li>
-<li><strong>GitHub:</strong> <a href="https://github.com/your-username">your-username</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/UsmanSaleem004/Job_Portal">UsmanSaleem004</a></li>
 </ul>
  <p>Enjoy using the Job Portal application!</p>
